@@ -14,6 +14,22 @@ AIM: What is Intent? Write down types of Intent and types of Intent Action. Crea
 
 6. Open Camera
 
+Explicit Intent − It going to connect the internal world of an application such as start activity or send data between two activities.
+
+Implicit Intents − It going to connect with out side application such as call, mail, phone,see any website ..etc. 
+
+1	
+ACTION_VIEW 
+
+Display information about the person whose identifier is "1".
+
+2	
+ACTION_DIAL 
+
+Display the phone dialer with the person filled in.
+
+
+
 An intent lets you start an activity in another app by describing an action you'd like to perform, such as "view a map" or "take a picture," in an Intent object.
 
 ![image](https://github.com/JaviyaShreya/MAD_Practical5_21012011032/assets/98646013/3bc79cdf-e019-4535-850c-978738e4a47a)
