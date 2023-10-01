@@ -2,6 +2,10 @@
 
 AIM: What is Intent? Write down types of Intent and types of Intent Action. Create an application which demonstrates implicit Intent for following features. 
 
+ntent is to perform an action. It is mostly used to start activity, send broadcast receiver, start services and send message between two activities. There are two intents available in android as Implicit Intents and Explicit Intents.
+
+android. intent. action. MAIN means that this activity is the entry point of the application, i.e. when you launch the application, this activity is created.
+
 1. Make call to specific number
 
 2. Open specific URL
